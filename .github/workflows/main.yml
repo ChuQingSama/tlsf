@@ -1,0 +1,4 @@
+- name: git-clang-format lint
+  # You may pin to the exact commit or the version.
+  # uses: yshui/git-clang-format-lint@b65eb5b3f1ee18ca0b449a4b48882b48bb9db307
+  uses: yshui/git-clang-format-lint@v1.3
